@@ -1,0 +1,201 @@
+#home-section{
+    background: url('../img/New-York-City-Skyline.jpg') no-repeat center top fixed;
+    background-size:cover;
+    min-height: 664px;
+    position: relative;}
+
+#home-section .overlay{
+        background-color: rgba(21, 102, 182, 0.65);
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        min-height: 664px;
+    }
+
+#home-section .hh {
+    margin: 20%;
+    margin-top: 16%;
+}
+
+#home-section .hh h4 {
+    border-bottom: 1px solid white;
+    border-radius: 50%
+}
+
+#about .text1 {
+    color: rgba(25, 102, 182, 0.95);
+
+}
+
+#about .text2 {
+    color: rgba(25, 102, 182, 0.95);
+    font-size: 15px;
+}
+
+#about .icon1 {
+    color: rgba(21, 102, 182, 0.95);
+    border: 1px solid rgba(21, 102, 182, 0.85);
+    border-radius: 50%;
+}
+
+#about .qq {
+    width: 192px;
+    height: 180px;
+}
+
+#about .hq {
+    color: rgba(127, 229, 25, 0.82);
+}
+
+#about .lt {
+    font-size: 13px;
+}
+
+#about .vc {
+    box-shadow: 4px 10px 12px 2px #888888;
+}
+
+#features {
+    background: rgba(96, 189, 3, 0.72);
+}
+
+
+#features .jk {
+    font-size: 16px;
+}
+
+
+#features .ii {
+    border-bottom: 1px solid white;
+    box-shadow: 0px 6px 15px 0px #888888;
+}
+
+#features .po {
+    font-size: 13px;
+}
+
+#features .jhj {
+    opacity: 0.8;
+}
+
+#team {
+    background: rgba(21, 102, 182, 0.95);
+    min-height: 500px;
+}
+
+#team .ii {
+    border-radius: 20%;
+    margin-left: 34%;
+    width: 160px;
+    padding: 25px;
+    background: rgba(96, 189, 3);
+    margin-top: -78px;
+    box-shadow: 0px 5px 15px 0px rgba(96, 189, 3, 0.72);
+}
+
+#team .nm {
+    
+    width: 23%;
+    height: 60%;
+}
+
+
+#team .gh {
+
+    height: 24%;
+
+}
+
+
+#team .qwe {
+    margin-top: 10%;
+}
+
+
+#price {
+    background: rgba(96, 189, 3, 0.72);
+    border: 4px dotted rgba(21, 102, 182, 0.95);
+}
+
+
+#price .ui {
+    border-bottom: 1px solid white;
+}
+
+#price .plm{
+    color: rgba(96, 189, 3, 0.72);
+}
+
+
+
+#price .kl {
+    border-bottom: 1px solid rgba(96, 189, 3, 0.72);
+    padding-bottom: 45px;
+}
+
+#price .mnb {
+    line-height: 35px;
+    font-family: serif;
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+#price .uy {
+    font-size: 25px;
+}
+
+#price .qlm {
+    color: rgba(21, 102, 182, 0.95);
+}
+
+#price .xc {
+    background: rgba(21, 102, 182, 0.95);
+}
+
+#main-footer {
+    opacity: 0.75;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
